@@ -12,7 +12,7 @@
 [![Security](https://img.shields.io/badge/Security-Hardened-22c55e)](https://github.com/yasshh17/fitcheck#security)
 [![License](https://img.shields.io/badge/license-MIT-purple.svg)](LICENSE)
 
-[Live Demo](#running) • [Architecture](#architecture) • [Security](#security) • [Getting Started](#getting-started)
+[Live Demo](https://fitcheck-teal-moon.reflex.run/) • [Architecture](#architecture) • [Security](#security) • [Getting Started](#getting-started)
 
 </div>
 
